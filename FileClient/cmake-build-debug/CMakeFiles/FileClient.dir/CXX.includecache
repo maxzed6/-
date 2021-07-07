@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/FileClient/main.cpp
+iostream
+-
+unistd.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+cstring
+-
+

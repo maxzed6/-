@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Socket.dir/main.cpp.o -o Socket 

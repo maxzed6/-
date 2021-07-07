@@ -1,0 +1,4 @@
+/home/maxzed/下载/clion-2021.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/FileServer
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/CLionProjects/FileServer/cmake-build-debug
